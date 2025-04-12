@@ -1,4 +1,4 @@
-markdown# BrainForge: 左右脑协作的高效LLM微调系统
+# BrainForge: 左右脑协作的高效LLM微调系统
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/brainforge.svg)](https://github.com/yourusername/brainforge/stargazers)
 [![GitHub license](https://img.shields.io/github/license/yourusername/brainforge.svg)](https://github.com/yourusername/brainforge/blob/main/LICENSE)
